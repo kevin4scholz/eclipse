@@ -32,4 +32,3 @@ nvm install node
 solana program deploy dist/program/helloworld.so
 cd testnet-deposit
 sudo apt-get update
-sudo apt-get update
