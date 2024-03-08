@@ -29,4 +29,3 @@ cd example-helloworld
 npm install
 npm run build:program-rust
 nvm install node
-solana program deploy dist/program/helloworld.so
