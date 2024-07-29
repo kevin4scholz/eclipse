@@ -6,4 +6,3 @@ source ~/.bashrc
 sudo apt install npm
 npm install -g yarn 
 apt install cargo
-curl -o- 
