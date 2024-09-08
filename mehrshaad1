@@ -13,5 +13,3 @@ sudo apt install np
 sudo apt install npm
 npm install -g yarn 
 apt install cargo
-npm install -g yarn 
-
